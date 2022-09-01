@@ -2,7 +2,6 @@ var path = require('path');
 process.env.VUE_APP_VERSION = require('./package.json').version;
 module.exports = {
   transpileDependencies: ['vuetify'],
-  publicPath: './',
   pluginOptions: {
     i18n: {
       locale: 'en',
