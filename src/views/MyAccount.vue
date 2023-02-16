@@ -1,7 +1,7 @@
 <template>
   <v-container class="myAccount stake_background">
      <div class="header-title">
-      <h1>My Account</h1>
+      <h1>My Account  4everland</h1>
       <div class="title-detailed">Details about your account, balances, and voting</div>
     </div>
     <v-row>
